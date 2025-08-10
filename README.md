@@ -1,6 +1,6 @@
 Bible Quotes is a small React Native app made using Expo.
 
-Currently the only supported language is Serbian, but in the near future I plan to add an English version.
+Currently the only supported languages are Serbian and English, but in the near future I plan to add more languages.
 
 Also, the currently supported OS is only Android. Even if it's made in React-Native, I currently don't have an iOS device for testing and debugging, so for now, the only supported OS is Android.
 
